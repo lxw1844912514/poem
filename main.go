@@ -50,15 +50,15 @@ func GOScrape() {
 	})*/
 }
 
-func AppCrawler() {
-
-}
+//func AppCrawler() {
+//
+//}
 
 func main() {
 	//web端数据少
-	//GOScrape()
+	GOScrape()
 
 	//	app 端
-	AppCrawler()
+	//AppCrawler()
 
 }
